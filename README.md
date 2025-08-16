@@ -12,4 +12,5 @@
   </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/JonaNorman/count.svg)
+<img src="https://profile-counter.deno.dev/JonaNorman/count.svg" alt="JonaNorman Repo :: Visitor's Count" />
+
